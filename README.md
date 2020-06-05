@@ -3,7 +3,7 @@
 To use, run the following command:
 
 ```bash
-docker run --rm -v $PWD:/data class_notes -o <output_file>.pdf <input_file>.md
+docker run --rm -v $PWD:/data philipbl/class_notes -o <output_file>.pdf <input_file>.md
 ```
 
 
